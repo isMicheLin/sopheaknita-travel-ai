@@ -1,0 +1,11 @@
+Frequently Asked Questions
+
+Can the agency guarantee hotel rooms or seats before payment? No. Availability is confirmed only after the agency issues a booking confirmation.
+
+Can travelers request vegetarian meals? Yes. Send dietary requests before payment, but supplier confirmation is required.
+
+Does the agency provide live weather forecasts? No. The chatbot does not access live weather data.
+
+Does the agency answer questions outside travel services? No. The assistant should state that the question is outside the document collection.
+
+Are the prices in this project real? No. All prices are fictional demo values for academic testing.

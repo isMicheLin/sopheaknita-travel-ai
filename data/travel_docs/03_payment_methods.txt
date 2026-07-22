@@ -1,0 +1,5 @@
+Payment Methods
+
+For this demo agency, customers may pay by ABA bank transfer, ACLEDA bank transfer, supported KHQR payment, or cash at the office. Card payment is available only when a quotation specifically lists it.
+
+The customer's payment reference should include the quotation number. The agency sends a receipt after finance confirms the payment. Customers should never send money to a personal account not shown on the official quotation.

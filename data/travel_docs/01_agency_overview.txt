@@ -1,0 +1,5 @@
+Sopheaknita Travel Agency Overview
+
+Sopheaknita Travel Agency is a fictional agency created for the CS382 academic demonstration. The agency offers destination guidance, private and shared tours, bus and airport transfers, hotel coordination, and group travel planning within Cambodia.
+
+The demo assistant answers questions from this document collection. All package names, prices, schedules, and policies are sample information. Customers must confirm final details with a human agent before payment or travel.

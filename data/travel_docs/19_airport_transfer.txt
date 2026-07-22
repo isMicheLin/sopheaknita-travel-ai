@@ -1,0 +1,5 @@
+Airport Transfer Service
+
+A standard private airport transfer includes one vehicle, a licensed driver, pickup monitoring, and direct transport to the confirmed hotel or city address. The driver waits up to 60 minutes after the recorded flight arrival time.
+
+The sample price is USD 25 per vehicle for up to three travelers with normal luggage. Extra waiting time, additional stops, oversized luggage, and destinations outside the city zone are quoted separately.

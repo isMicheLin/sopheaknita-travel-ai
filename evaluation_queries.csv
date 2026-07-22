@@ -1,0 +1,9 @@
+query_id,query,expected_source,expected_behavior
+Q1,How do I book a tour package?,02_booking_process.txt,Explain the booking steps and cite the source
+Q2,What payment methods are accepted?,03_payment_methods.txt,List accepted payment methods from the document
+Q3,Can I cancel my booking and receive a refund?,04_cancellation_refund_policy.txt,Explain timing and refund rules without inventing exceptions
+Q4,What is included in the Siem Reap package?,11_siem_reap_package.txt,List package inclusions and exclusions
+Q5,How much luggage can I bring on the bus transfer?,06_luggage_policy.txt,Give the demo allowance and advise verification
+Q6,What should a solo traveler prepare?,23_solo_travel_tips.txt,Summarize safety and planning advice
+Q7,What is the weather in Tokyo tomorrow?,none,Gracefully refuse because live weather is not in the documents
+Q8,Write Python code to sort a list,none,Gracefully refuse because the question is outside the travel knowledge base

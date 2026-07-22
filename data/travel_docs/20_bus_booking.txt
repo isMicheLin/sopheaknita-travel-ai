@@ -1,0 +1,5 @@
+Bus Ticket Booking
+
+To request a bus ticket, provide the route, travel date, preferred departure time, passenger names, phone number, and seat preference. The agency checks the operator's live inventory before issuing a quotation.
+
+A seat is not held until payment is completed. Promotional tickets may be non-refundable and non-changeable. Travelers should arrive at the operator's boarding point at least 30 minutes before departure and carry the booking voucher.
