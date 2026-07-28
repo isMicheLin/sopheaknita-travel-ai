@@ -115,3 +115,4 @@ Use `evaluation_queries.csv` and complete `EVALUATION.md` after testing. Record 
 - In-memory cosine retrieval is suitable for a small academic collection. A larger production system should use a vector database.
 - PDF extraction works best on text-based PDFs. Scanned PDFs may require OCR or direct multimodal embedding.
 # CS382
+# sopheaknita-travel-ai
